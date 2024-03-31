@@ -1,5 +1,5 @@
 import styles from "/Users/danny/Desktop/WOGHQ/HOOBANK/HOOBANK/src/style.js";
-import { arrowUp } from "../assets";
+import { arrowUp } from "/Users/danny/Desktop/WOGHQ/HOOBANK/hoobank/src/assets/index.js";
 
 const GetStarted = () => (
   <div className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`}>
