@@ -1,4 +1,4 @@
-import { feedback } from "Users/danny/Desktop/WOGHQ/HOOBANK/HOOBANK/src/constants/index.js";
+import { feedback } from "../constants/index.js";
 import styles from "../style.js";
 import FeedbackCard from "./FeedbackCard.jsx";
 

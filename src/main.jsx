@@ -1,6 +1,6 @@
-import React from '/Users/danny/Desktop/WOGHQ/HOOBANK/hoobank/node_modules/@types/react/index.d.ts';
+import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from '/Users/danny/Desktop/WOGHQ/HOOBANK/hoobank/src/App.jsx';
+import App from '/Users/danny/Desktop/WOGHQ/HOOBANK/src/App.jsx';
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(

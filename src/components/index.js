@@ -5,7 +5,7 @@ import Business from "./Business";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
-import Footer from "/Users/danny/Desktop/WOGHQ/HOOBANK/HOOBANK/src/components/Footer.jsx";
+import Footer from "/Users/danny/Desktop/WOGHQ/HOOBANK/src/components/Footer.jsx";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 

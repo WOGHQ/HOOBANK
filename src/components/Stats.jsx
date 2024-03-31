@@ -1,4 +1,4 @@
-import { stats } from 'Users/danny/Desktop/WOGHQ/HOOBANK/HOOBANK/src/constants/index.js';
+import { stats } from '../constants/index.js';
 import styles from "../style.js";
 
 const Stats = () => (
