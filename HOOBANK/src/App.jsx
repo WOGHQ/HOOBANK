@@ -1,5 +1,5 @@
 import styles from "/Users/danny/Desktop/WOGHQ/HOOBANK/HOOBANK/src/style.js";
-import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "/Users/danny/Desktop/WOGHQ/HOOBANK/hoobank/src/components";
+import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "/Users/danny/Desktop/WOGHQ/HOOBANK/HOOBANK/src/components";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
